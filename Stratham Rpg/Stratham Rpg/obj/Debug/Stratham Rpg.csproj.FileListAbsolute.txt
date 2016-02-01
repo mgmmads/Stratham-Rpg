@@ -1,0 +1,14 @@
+C:\Users\Mads\Documents\GitHub\Stratham-Rpg\Stratham Rpg\Stratham Rpg\bin\Debug\Stratham Rpg.exe.config
+C:\Users\Mads\Documents\GitHub\Stratham-Rpg\Stratham Rpg\Stratham Rpg\bin\Debug\Stratham Rpg.exe
+C:\Users\Mads\Documents\GitHub\Stratham-Rpg\Stratham Rpg\Stratham Rpg\bin\Debug\Stratham Rpg.pdb
+C:\Users\Mads\Documents\GitHub\Stratham-Rpg\Stratham Rpg\Stratham Rpg\obj\Debug\Stratham Rpg.csprojResolveAssemblyReference.cache
+C:\Users\Mads\Documents\GitHub\Stratham-Rpg\Stratham Rpg\Stratham Rpg\obj\Debug\MainWindow.g.cs
+C:\Users\Mads\Documents\GitHub\Stratham-Rpg\Stratham Rpg\Stratham Rpg\obj\Debug\App.g.cs
+C:\Users\Mads\Documents\GitHub\Stratham-Rpg\Stratham Rpg\Stratham Rpg\obj\Debug\Stratham Rpg_MarkupCompile.cache
+C:\Users\Mads\Documents\GitHub\Stratham-Rpg\Stratham Rpg\Stratham Rpg\obj\Debug\Stratham Rpg_MarkupCompile.lref
+C:\Users\Mads\Documents\GitHub\Stratham-Rpg\Stratham Rpg\Stratham Rpg\obj\Debug\MainWindow.baml
+C:\Users\Mads\Documents\GitHub\Stratham-Rpg\Stratham Rpg\Stratham Rpg\obj\Debug\Stratham Rpg.g.resources
+C:\Users\Mads\Documents\GitHub\Stratham-Rpg\Stratham Rpg\Stratham Rpg\obj\Debug\Stratham_Rpg.Properties.Resources.resources
+C:\Users\Mads\Documents\GitHub\Stratham-Rpg\Stratham Rpg\Stratham Rpg\obj\Debug\Stratham Rpg.csproj.GenerateResource.Cache
+C:\Users\Mads\Documents\GitHub\Stratham-Rpg\Stratham Rpg\Stratham Rpg\obj\Debug\Stratham Rpg.exe
+C:\Users\Mads\Documents\GitHub\Stratham-Rpg\Stratham Rpg\Stratham Rpg\obj\Debug\Stratham Rpg.pdb
